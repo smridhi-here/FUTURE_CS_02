@@ -1,0 +1,17 @@
+﻿SIMULATED COMMUNICATION EMAIL TO STAKEHOLDERS
+
+
+SIMULATED COMMUNCATION EMAIL TO STAKEHOLDERS
+To: SOC Manager
+Subject: Security Incident Summary – Task 2
+Dear Team,
+During our routine log analysis using Splunk SIEM, several high-risk security alerts were detected, including failed login attempts, malware infections, and suspicious external IP activity.
+User Bob’s account appears to be compromised, showing evidence of ransomware infection and unauthorized access.
+Recommended immediate actions:
+•	Block malicious IP 203.0.113.77
+•	Isolate affected endpoints
+•	Reset credentials for impacted users
+Please review the attached report for details and initiate remediation steps accordingly.
+Regards,
+Smridhi Gera
+SOC Analyst – Future Interns Cybersecurity
